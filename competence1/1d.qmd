@@ -1,0 +1,7 @@
+# Finetuning teaching design to students
+
+{{< include 1d1_student_entry_level.md >}}
+
+{{< include 1d2_student_background.md >}}
+
+{{< include 1d3_student_development_independent_learning_and_self-reflection.md >}}

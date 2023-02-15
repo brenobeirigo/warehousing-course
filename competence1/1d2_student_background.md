@@ -1,0 +1,7 @@
+## Student background
+
+*An explanation on how the diversity of backgrounds and the needs (e.g. culture, functional impairment, learning preferences) of the students is taken into account in the course design (e.g. in the modes of instruction, selected study materials/literature, composition of project teams, explicitness of expectations).*
+
+- Here, tell us about the variety of nationalities for example (in your class) and how you take care to make sure to consider cultural differences like some cultures not questioning teachers – therefore you set expectations early to encourage desired behaviour. Or, you ensure project groups are mixed so that all students get a multicultural perspective in their teamwork etc.
+- Tell us how you consider your unique contextual situation and how you have adapted your course to best facilitate learning for the varied audience.
+- Have a look into UDL and see if you can mention something about this. ([https://teaching.cornell.edu/teaching-resources/designing-your-course/universal-design-learning#:~:text=Universal%20design%20for%20learning%20(UDL,hurdles%20in%20the%20learning%20process.)](https://teaching.cornell.edu/teaching-resources/designing-your-course/universal-design-learning#:~:text=Universal%20design%20for%20learning%20(UDL,hurdles%20in%20the%20learning%20process.))

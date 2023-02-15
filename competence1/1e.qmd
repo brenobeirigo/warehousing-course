@@ -1,0 +1,5 @@
+# Practical and logistically feasible teaching design
+
+{{< include 1e1_course_practical_details.md >}}
+
+{{< include 1e2_teaching_logistics.md >}}

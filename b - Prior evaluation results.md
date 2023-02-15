@@ -1,0 +1,6 @@
+# Prior evaluation results
+
+Tell me how you or your colleagues  used previous feedback to guide any changes. E.g. in 2019 we got feedback that X was Y, so we changed it by …
+
+ How previous evaluation results have been used in the (re)design of the course.
+Feedback this year show the changes were/ were not appreciated – this could be due to …

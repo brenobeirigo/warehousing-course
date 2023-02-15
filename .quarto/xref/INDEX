@@ -1,0 +1,41 @@
+{
+  "index.qmd": {
+    "index.html": "1bac1b60"
+  },
+  "intro.qmd": {
+    "intro.html": "f59532ae"
+  },
+  "summary.qmd": {
+    "summary.html": "38b86e02"
+  },
+  "references.qmd": {
+    "references.html": "4019752f"
+  },
+  "competence1/1a.qmd": {
+    "1a.html": "cad6be76"
+  },
+  "competence1/1_designing_or_redesigning_teaching.md": {
+    "1_designing_or_redesigning_teaching.html": "0a5090f1"
+  },
+  "competence1/1b.qmd": {
+    "1b.html": "79b50ca5"
+  },
+  "competence1/1c.qmd": {
+    "1c.html": "cd5c70ea"
+  },
+  "competence1/1d.qmd": {
+    "1d.html": "de971d41"
+  },
+  "0_intro_about_me.md": {
+    "0_intro_about_me.html": "dbf9ab0f"
+  },
+  "competence1/1e.qmd": {
+    "1e.html": "2294dc4e"
+  },
+  "appendix/program_objectives_and_ilos.md": {
+    "program_objectives_and_ilos.html": "5333f985"
+  },
+  "appendix/program_ilos.md": {
+    "program_ilos.html": "36d0f150"
+  }
+}

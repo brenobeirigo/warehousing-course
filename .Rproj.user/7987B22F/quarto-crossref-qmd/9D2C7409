@@ -1,0 +1,74 @@
+{
+    "entries": [
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a1",
+            "suffix": "",
+            "title": "Apply research & design processes"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a7",
+            "suffix": "",
+            "title": "Demonstrate mastery of M-IEM’s core disciplines"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a8",
+            "suffix": "",
+            "title": "Contribute to academic development"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a4",
+            "suffix": "",
+            "title": "Leverage existing knowledge in concrete cases"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "ilos_general",
+            "suffix": "",
+            "title": "General Academic Qualifications MSc"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a6",
+            "suffix": "",
+            "title": "Evaluate the performance of methods and techniques"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a3",
+            "suffix": "",
+            "title": "Model operational processes quantitatively"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a2",
+            "suffix": "",
+            "title": "Evaluate research & design processes quantitatively & qualitatively"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "ilos_miem",
+            "suffix": "",
+            "title": "Professional Academic Qualifications MSc"
+        },
+        {
+            "file": "appendix/program_ilos.md",
+            "type": "sec",
+            "id": "miem_ilo_a5",
+            "suffix": "",
+            "title": "Plan implementation methods and processes"
+        }
+    ]
+}

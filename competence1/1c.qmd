@@ -1,0 +1,7 @@
+# Designing learning methods and materials
+
+{{< include 1c1_activating_instructional_methods_and_assignments.md >}}
+
+{{< include 1c2_guiding_students_through_learning_activities.md >}}
+
+{{< include 1c3_hybrid_education.md >}}

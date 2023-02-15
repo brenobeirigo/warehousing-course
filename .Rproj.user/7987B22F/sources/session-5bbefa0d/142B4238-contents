@@ -1,0 +1,46 @@
+project:
+  type: book
+  preview:
+    port: 4200
+    browser: true
+    watch-inputs: true
+
+
+book:
+  title: "UTQ Portfolio"
+  author: "Breno A. Beirigo"
+  date: "7-2-2023"
+  chapters:
+    - index.qmd
+    - 0_intro_about_me.md
+    - part: competence1/1_designing_or_redesigning_teaching.md
+      chapters:
+        - competence1/1a.qmd
+        - competence1/1b.qmd
+        - competence1/1c.qmd
+        - competence1/1d.qmd
+        - competence1/1e.qmd
+    - references.qmd
+    - part: "Appendices"
+      chapters:
+        - appendix/program_ilos.md
+
+css:
+  - style.css
+  - table.css
+  - mermaid.css
+
+bibliography: "../../Warehousing/bib/warehousing_course.bib"
+
+format:
+  html:
+    theme: simplex
+    fontsize: 16px
+    toc-depth: 3
+    mermaid:
+      theme: dark
+  pdf:
+    documentclass: scrreprt
+
+
+
