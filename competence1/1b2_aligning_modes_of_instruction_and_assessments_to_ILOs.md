@@ -15,7 +15,7 @@ Since assuming a direct correspondence between Bloom's Taxonomy action verbs and
 <!-- N.B. Ensure the Bloom’s verb actually aligns type of activity and assessment. https://uwaterloo.ca/centre-for-teaching-excellence/resources/teaching-tips/blooms-taxonomy-learning-activities-and-assessments -->
 
 ::: twoAxis
-| Intended Learning Outcome                                                                                                | Importance | Quiz (20%) | Individual report (15%) | Group assignment (15%) | Exam (50%) | Learning activity                                                                       |
+| Intended Learning Outcome                                                                                                | Importance | Quiz (15%) | Individual report (15%) | Group assignment (20%) | Exam (50%) | Learning activity                                                                       |
 |-----------|:---------:|:---------:|:---------:|:---------:|:---------:|-----------|
 | 1\. Explain the role of warehousing in supply chains and identify warehouse types, functions, and operations.            |     5%     |     ⚫     |           ⚫            |                        |     ⚫     | Case studies, lectures, reading materials, think-pair-share, summarize                  |
 | 2\. Discuss major planning, design, management, and control decisions in contemporary warehouses.                        |    15%     |     ⚫     |           ⚫            |                        |     ⚫     | Case studies, lectures, reading materials, think-pair-share, summarize                  |
