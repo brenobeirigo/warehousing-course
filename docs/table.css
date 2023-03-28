@@ -24,8 +24,13 @@ table>tbody>tr:nth-child(even) {
 table {
     border-collapse: collapse;
     border-spacing: 0;
-    width: auto;
+    width: auto !important;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /*
     max-width: 100%;
+    */
     border-top: 2.27px solid black;
     /* border-bottom: 2.27px solid black; */
     overflow-x: auto;
@@ -47,6 +52,11 @@ td {
     line-height: 1.1;
 }
 
+/* remove space after bullets inside table */
+td ul {
+  margin: 0px;
+}
+
 tr:hover {
     background-color: #cccccc;
 }
@@ -56,6 +66,12 @@ tr:hover {
   font-size: 0.7em;
 }
 
+.twoAxis table>tbody>tr>td {
+  vertical-align: middle;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
 .captionFontSize {
   font-size: 0.7em;
 }
@@ -63,8 +79,4 @@ tr:hover {
 
 
 
-.twoAxis table>tbody>tr>td {
-  vertical-align: middle;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
+

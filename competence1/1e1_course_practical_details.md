@@ -21,55 +21,55 @@ tags: [course, design, academia, logistics, teaching]
 - Tell us about the locations of your lectures in usual times and corona times – e.g. you need rooms with X,Y,Z due to a,b,c. During corona – what platform do you prefer? Why? How do you do it? (Video on, or just mic etc.?)
 - Maybe you have different needs for the different types of meetings – depending on whether it is a tutorial, a workshop or a more traditional lecture?-->
 ```
-{{< include ../../../Warehousing/course_logistics/course_details.md >}}
+{{< include ../Warehousing/course_logistics/course_details.md >}}
 
 ### Teaching team
 
-{{< include ../../../Warehousing/course_logistics/teaching_team.md >}}
+{{< include ../Warehousing/course_logistics/teaching_team.md >}}
 
 ### Aims
 
-{{< include ../../../Warehousing/course_design/course_warehousing_aims.md >}}
+{{< include ../Warehousing/course_design/course_warehousing_aims.md >}}
 
 ### Learning outcomes
 
-{{< include ../../../Warehousing/course_design/ilos/course_warehousing_ilo_list.md >}}
+{{< include ../Warehousing/course_design/ilos/course_warehousing_ilo_list.md >}}
 
 ### Assumed previous knowledge
 
-{{< include ../../../Warehousing/course_logistics/course_warehousing_assumed_previous_knowledge.md >}}
+{{< include ../Warehousing/course_logistics/course_warehousing_assumed_previous_knowledge.md >}}
 
 ### Participating study
 
-{{< include ../../../Warehousing/course_logistics/course_participating_study.md >}}
+{{< include ../Warehousing/course_logistics/course_participating_study.md >}}
 
 ### Study load (ECTS)
 
-{{< include ../../../Warehousing/course_logistics/course_ECTS.md >}}
+{{< include ../Warehousing/course_logistics/course_ECTS.md >}}
 
 ### Assessment
 
-{{< include ../../../Warehousing/course_logistics/course_warehousing_assessment_summary.md >}}
+{{< include ../Warehousing/course_logistics/course_warehousing_assessment_summary.md >}}
 
 ### Materials
 
-{{< include ../../../Warehousing/course_design/course_warehousing_materials.md >}}
+{{< include ../Warehousing/course_design/course_warehousing_materials.md >}}
 
 ### Facilities
 
-{{< include ../../../Warehousing/course_logistics/course_rooms.md >}}
+{{< include ../Warehousing/course_logistics/course_rooms.md >}}
 
 ### Course overview
 
-{{< include ../../../Warehousing/course_logistics/course_overview_2023.md >}}
+{{< include ../Warehousing/course_logistics/course_overview_2023.md >}}
 
 <iframe width="100%" height="800" src="/attachments/assets/timetable_2023-03-13.pdf"></iframe>
 
 
 ### Content outline
 
-{{< include ../../../Warehousing/course_design/course_warehousing_content_outline.md >}}
+{{< include ../Warehousing/course_design/course_warehousing_content_outline.md >}}
 
 ### Content sequencing
 
-{{< include ../../../Warehousing/course_design/course_warehousing_content_sequencing.md >}}
+{{< include ../Warehousing/course_design/course_warehousing_content_sequencing.md >}}

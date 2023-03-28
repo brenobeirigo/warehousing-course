@@ -1,32 +1,44 @@
 {
     "sources": [
         {
-            "DOI": "10.1093/comjnl/27.2.97",
-            "ISSN": "0010-4620",
-            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
-            "author": [
-                {
-                    "family": "Knuth",
-                    "given": "Donald E."
-                }
-            ],
-            "container-title": "Comput. J.",
-            "id": "knuth84",
-            "issue": "2",
-            "issued": {
+            "ISSN": "2504-284X",
+            "URL": "https://www.frontiersin.org/articles/10.3389/feduc.2020.00107",
+            "abstract": "Bloom’s Taxonomy is an approach to organizing learning that was first published in 1956. It is ubiquitous in UK Higher Education (HE), where Universities use it as the basis for teaching and assessment; Learning Outcomes are created using suggested verbs for each tier of the taxonomy, and these are then “constructively aligned” to assessments. We conducted an analysis to determine whether there is consensus regarding the presentation of Bloom’s Taxonomy across UK HE. Forty seven publicly available verb lists were collected from 35 universities and textbooks. There was very little agreement between these lists, most of which were not supported by evidence explaining where the verbs came from. We were able to construct a pragmatic “master list” of action verbs by using a simple majority consensus method. We were also able to construct a master list of commonly recommended “verbs to avoid.” These master lists should be useful for anyone tasked with using Bloom’s Taxonomy to write Learning Outcomes for assessment. However, our findings raise broader questions about the evidence base which underpins a common approach to teaching and assessment in UK HE and education generally.",
+            "accessed": {
                 "date-parts": [
                     [
-                        1984,
-                        5
+                        2023,
+                        2,
+                        9
                     ]
                 ]
             },
-            "page": "97-111",
-            "publisher": "Oxford University Press, Inc.",
-            "publisher-place": "USA",
-            "title": "Literate programming",
+            "author": [
+                {
+                    "family": "Newton",
+                    "given": "Philip M."
+                },
+                {
+                    "family": "Da Silva",
+                    "given": "Ana"
+                },
+                {
+                    "family": "Peters",
+                    "given": "Lee George"
+                }
+            ],
+            "container-title": "Frontiers in Education",
+            "id": "newtonPragmaticMasterList2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "A Pragmatic Master List of Action Verbs for Bloom’s Taxonomy",
             "type": "article-journal",
-            "volume": "27"
+            "volume": "5"
         }
     ],
     "project_biblios": [

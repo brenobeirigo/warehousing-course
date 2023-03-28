@@ -28,22 +28,28 @@ In conclusion, the MSc course in warehousing and its learning outcomes are direc
 #### Warehousing in the Netherlands {.unnumbered}
 
 The Netherlands is a major logistics and supply chain management hub with a well-developed warehousing industry that plays a critical role in the country's economy.
-The number of warehouses in the country has been consistently growing (see @fig-takeup), to keep up with the latest  trends towards online shopping, digitalization, and same- or next-day delivery.
 Many companies in the Netherlands operate large warehousing facilities to support their supply chain operations, including major retailers, manufacturers, and logistics.
-
 Consequently, the demand for skilled professionals in the field of warehousing is high, and many companies are seeking individuals with advanced knowledge and skills in warehouse design, operation, and management.
 
 >Given the diversity of the Dutch market, M-IEM students willing to carry out their graduation projects in warehousing related-subjects may choose from a wealth of companies.
+
+The number of warehouses in the country has been consistently growing, to keep up with the latest trends towards online shopping, digitalization, and same- or next-day delivery.
+As can be seen in @fig-takeup, the take-up^[total floor space known to have been let or pre-let (planning/construction stage), sold or pre-sold to tenants or owner-occupiers] rate for warehouses increased markedly since 2014, and is recently more prominent in the south of the country (Brabant province).
+For example, in 2022, [bol.com has doubled the area of its fulfillment center](https://pers.bol.com/nl/nieuws/bol-com-opent-uitbreiding-van-fulfilment-center-in-waalwijk/) in [Waalwijk, Brabant](https://goo.gl/maps/EKaWo9TFwQvjyeSh7).
+
+
 
 ::: {#fig-takeup layout-ncol=1 width=80%}
 
 ![Dutch warehouse annual take-up rate in square meters.](../attachments/figures/takeup_warehouse_nl.png)
 
-Annual take-up^[Total floor space known to have been let or pre-let (planning/construction stage), sold or pre-sold to tenants or owner-occupiers] rate for warehouses in the Netherlands from 2014 to 2021, by city (source: [Statista](https://www.statista.com/topics/4947/logistics-property-in-the-netherlands/)).
+Annual take-up rate for warehouses in the Netherlands from 2014 to 2021, by city (source: [Statista](https://www.statista.com/topics/4947/logistics-property-in-the-netherlands/)).
+
 :::
+
 
 ![Word cloud produced using M-IEM theses titles. Research conducted within the program reflects the main literature topics (e.g., order-picking, design, storage).](../attachments/figures/wordcloud.png){#fig-wordcloud_abstract width=80%}
 
 ### M-IME theses on warehousing {#sec-warehousing-theses}
 
-{{< include ../../../Warehousing/course_design/course_warehousing_msc_theses.md >}}
+{{< include ../Warehousing/course_design/course_warehousing_msc_theses.md >}}
